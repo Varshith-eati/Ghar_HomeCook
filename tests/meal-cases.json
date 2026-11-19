@@ -1,0 +1,44 @@
+[
+  {
+    "query": "sambar, rasam and poriyal",
+    "area": "Koramangala",
+    "days": 7,
+    "expected": "p2",
+    "total": 592
+  },
+  {
+    "query": "Gujarati thepla and shaak",
+    "area": "HSR Layout",
+    "days": 30,
+    "expected": "p4",
+    "total": 2943
+  },
+  {
+    "query": "chicken curry and Kerala fish curry",
+    "area": "BTM Layout",
+    "days": 1,
+    "expected": "p5",
+    "total": 149
+  },
+  {
+    "query": "quinoa bowls and greens",
+    "area": "Indiranagar",
+    "days": 7,
+    "expected": "p3",
+    "total": 858
+  },
+  {
+    "query": "paneer butter masala with roti",
+    "area": "Koramangala",
+    "days": 1,
+    "expected": "p1",
+    "total": 99
+  },
+  {
+    "query": "weekly lunch",
+    "area": "outside delivery area",
+    "days": 7,
+    "expected": null,
+    "total": null
+  }
+]

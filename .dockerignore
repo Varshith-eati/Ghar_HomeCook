@@ -1,0 +1,10 @@
+node_modules
+.next
+.local
+out
+dist
+.git
+.env
+.env.*
+*.log
+*.zip
