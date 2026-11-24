@@ -29,7 +29,7 @@ function Login({ preview }) {
     <p>Find your daily meals or manage your kitchen with one account.</p>
     {preview
       ? <form action="/__preview/signin" method="post"><button className="btn primary full">Continue with local preview account <ArrowRight size={17}/></button></form>
-      : <a className="btn primary full" target="_top" href="/signin-with-chatgpt?return_to=%2Fchoose-role%2F">Continue with ChatGPT <ArrowRight size={17}/></a>}
+      : <a className="btn primary full" target="_top" href="/signin-with-chatgpt?return_to=%2Fchoose-role%2F">Continue <ArrowRight size={17}/></a>}
   </WelcomeLayout>;
 }
 
